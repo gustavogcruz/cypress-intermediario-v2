@@ -1,4 +1,4 @@
-# Estrutura do curso
+# Estrutura do curso #
 
 Conheça a estrutura do curso intermediário de Cypress da Escola TAT no Udemy.
 
